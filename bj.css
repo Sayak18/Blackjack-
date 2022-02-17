@@ -1,0 +1,29 @@
+body{
+	text-align: center;
+	font-family: 'Trebuchet MS','Lucida Sans Unicode','Lucida Grande',Arial,sans-serif;
+	background-image: url("bj.jpg");
+	background-image: cover;
+	background-size: cover;
+}
+p{
+	font-weight: bold;
+	color: orangered;
+	font-size: xx-large;
+	margin-top: 50px;
+}
+#message-el{
+	color: yellow;
+}
+
+button{
+width: 150px;
+height: 50px;
+padding-top:5px;
+padding-bottom: 5px;
+color: goldenrod;
+background-color: green;
+font-weight: bold;
+border: none;
+border-radius:2px;
+
+}s
